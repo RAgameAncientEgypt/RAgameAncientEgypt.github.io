@@ -3,7 +3,7 @@
 
 ## Este blog tan básico acompañará los avances del videojuego RA:
 
-***(Pedimos que no se tenga en cuenta la estetica de la pagina. No le dedicamos tiempo como al videojuego.)***
+***(Pedimos que no se tenga en cuenta la estética de la página. No le dedicamos tanto tiempo como al videojuego. También es de código abierto, si alguien quiere completar/añadir algo a la página. Gracias :D)***
 
 #### Días de trabajo: **3** (no siempre estará actualizado)
 
