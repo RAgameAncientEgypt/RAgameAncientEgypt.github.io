@@ -26,7 +26,7 @@ Personajes a intervenir: Ahmed, Khaldun, Aswad
 
 Narrador: Aswad el gato. 
 
-Este fue el primer caso donde la curiosidad no mató a un gato, sino a su dueño. Mi humano Khaldun. Un habilidoso soldado de las filas del ejército el cual pereció vergonzosamente ante el oxidado cuchillo de aquel que llamaba amigo. Lo que no sabría era como el nimio favor de agacharse para ayudarlo a recoger la joya que Ahmed le había indicado, pues pretendía regalársela a su amante, terminaría con el ferroso acero contra su espalda tiñendo la yerma tierra de sangre. como habría sucedido racionalmente con un humano tras ver un crimen se habría ido para no tener problemas mas mi felina naturaleza hizo quedarme y así fue como acto seguido presenció un pago de un misterioso individuo hacia Ahamed.
+Este fue el primer caso donde la curiosidad no mató a un gato, sino a su dueño. Mi humano Khaldun. Un habilidoso soldado de las filas del ejército el cual pereció vergonzosamente ante el oxidado cuchillo de aquel que llamaba amigo. Lo que no sabría era como el nimio favor de agacharse para ayudarlo a recoger la joya que Ahmed le había indicado, pues pretendía regalársela a su amante, terminaría con el ferroso acero contra su espalda tiñendo la yerma tierra de sangre. como habría sucedido racionalmente con un humano tras ver un crimen se habría ido para no tener problemas mas mi felina naturaleza hizo quedarme y así fue como acto seguido presenció un pago de un misterioso individuo hacia Ahmed.
 
 
 
