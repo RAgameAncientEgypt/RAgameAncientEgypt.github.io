@@ -1,5 +1,6 @@
 # THE RA GAME
 
+<body style="background-color:#FF9224;">
 
 ## Este blog tan básico acompañará los avances del videojuego RA:
 
@@ -36,3 +37,4 @@ Este fue el primer caso donde la curiosidad no mató a un gato, sino a su dueño
 
 
 **INFO. DE CONTACTO: theragameancientegypt@gmail.com**
+</body>
