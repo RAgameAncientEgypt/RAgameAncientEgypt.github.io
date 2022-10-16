@@ -3,6 +3,8 @@
 
 ## Este blog tan básico acompañará los avances del videojuego RA:
 
+***(Pedimos que no se tenga en cuenta la estetica de la pagina. No le dedicamos tiempo como al videojuego.)***
+
 #### Días de trabajo: **3** (no siempre estará actualizado)
 
 ### ¿Que es RA?:
