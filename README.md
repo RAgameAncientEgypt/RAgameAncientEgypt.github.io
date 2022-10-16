@@ -3,6 +3,8 @@
 
 ## Este blog tan basico acompañara los avances del videojuego RA:
 
+#### Días de trabajo: **3**
+
 ### ¿Que es RA?:
 
 RA es un simple videojuego de mapa semi abierto.
