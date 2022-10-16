@@ -33,3 +33,6 @@ Este fue el primer caso donde la curiosidad no mató a un gato, sino a su dueño
 
 
 ![DE GOD OF RA XD](https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/59354a5a5bafe833c83c9869/dioses3_0.jpg)
+
+
+**INFO. DE CONTACTO: theragameancientegypt@gmail.com**
