@@ -6,7 +6,7 @@
 ### ¿Que es RA?:
 
 RA es un simple videojuego de mapa semi abierto.
-Esta todo el juego anvientado en el antiguo Egipto, como bien dice el nombre. Un gran guerrero asesinado de la peor manera posible y su pequeño gato, el cual le guiara por todos los niveles, tendran que superar el juicio final y ayudar a los Dioses con tal de buscar venganza.
+Esta todo el juego ambientado en el antiguo Egipto, como bien dice el nombre. Un gran guerrero asesinado de la peor manera posible y su pequeño gato, el cual le guiara por todos los niveles, tendran que superar el juicio final y ayudar a los Dioses con tal de buscar venganza.
 
 ### Lanzamiento:
 
