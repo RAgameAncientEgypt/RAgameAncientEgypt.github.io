@@ -3,7 +3,7 @@
 
 ## Este blog tan basico acompañara los avances del videojuego RA:
 
-#### Días de trabajo: **3**
+#### Días de trabajo: **3** (no siempre estara actualizado)
 
 ### ¿Que es RA?:
 
