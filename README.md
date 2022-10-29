@@ -5,8 +5,8 @@
 
 ***(Pedimos que no se tenga en cuenta la estética de la página. No le dedicamos tanto tiempo como al videojuego. También es de código abierto, si alguien quiere completar/añadir algo a la página. Gracias :D)***
 
-#### Días de trabajo: **16** (no siempre estará actualizado)
-
+#### Días de trabajo: **17** (no siempre estará actualizado)
+Y
 ### ¿Que es RA?:
 
 RA es un simple videojuego de mapa semiabierto.
